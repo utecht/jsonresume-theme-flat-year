@@ -3,7 +3,7 @@
 );
 body {
 	background: #fff;
-	font-family: Lato, sans-serif;
+	font-family: 12px Lato, sans-serif;
 	margin: 0 0 80px;
 }
 a {
@@ -71,8 +71,8 @@ h4 span:first-child {
 }
 #header {
 	background: #f4f6f6;
-	padding: 50px 0;
-	margin-bottom: 30px;
+	padding: 10px 0;
+	margin-bottom: 5px;
 }
 #header h2 {
 	color: #95a5a6;
